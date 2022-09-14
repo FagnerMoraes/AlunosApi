@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/fagner/dev/AlunosApi/AlunosApi.csproj": {}
+    "C:\\dev\\ReactProjects\\AlunosApi\\AlunosApi.csproj": {}
   },
   "projects": {
-    "/home/fagner/dev/AlunosApi/AlunosApi.csproj": {
+    "C:\\dev\\ReactProjects\\AlunosApi\\AlunosApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/fagner/dev/AlunosApi/AlunosApi.csproj",
+        "projectUniqueName": "C:\\dev\\ReactProjects\\AlunosApi\\AlunosApi.csproj",
         "projectName": "AlunosApi",
-        "projectPath": "/home/fagner/dev/AlunosApi/AlunosApi.csproj",
-        "packagesPath": "/home/fagner/.nuget/packages/",
-        "outputPath": "/home/fagner/dev/AlunosApi/obj/",
+        "projectPath": "C:\\dev\\ReactProjects\\AlunosApi\\AlunosApi.csproj",
+        "packagesPath": "C:\\Users\\fagmc\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\ReactProjects\\AlunosApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/fagner/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\fagmc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +61,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -71,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.108/sdk/6.0.108/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
